@@ -2,8 +2,7 @@
 
 # Created by Samuel Webster
 # Created on March 2022
-# This program calculates the circumference of a circle
-#     with inputted radius
+# This program shows how local and global variables work
 
 # global variable
 variable_X = 25
